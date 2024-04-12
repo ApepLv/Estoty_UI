@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: particle
+    uniqueID: 93095305
+    locked: 0
+  - name: smoke
+    uniqueID: 199619739
+    locked: 0
+  - name: chest
+    uniqueID: 4029771439
+    locked: 0
