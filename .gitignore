@@ -42,8 +42,3 @@ _ReSharper*/
 
 # Visual Studio Code specific
 .vscode/
-
-# macOS specific
-.DS_Store
-/Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png
-/Assets/Plugins/Demigiant/DOTween/
