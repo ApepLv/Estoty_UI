@@ -29,10 +29,7 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 .vs/
 #Nuget packages folder
-packages/
 *.Temp
-*.ProjectSettings
-*.Packages
 *.Logs
 # Unity specific
 /[Ll]ibrary/
